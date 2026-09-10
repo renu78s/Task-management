@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a sleek, responsive interface designed for seamless user interaction, enhancing productivity and user experience across devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
